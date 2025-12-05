@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Nuvem azul clarinho -->
+    <path
+        android:fillColor="#76A9FA"
+        android:pathData="M6,15h11a4,4 0 0 0 0,-8 5,5 0 0 0 -9,-2 4,4 0 0 0 -2,10z" />
+
+    <!-- Gotas em tons de azul -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M7,17c0,1.5 -1,2.5 -1.5,2.5S4,18.5 4,17s1.5,-3 1.5,-3S7,15.5 7,17z"/>
+
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M12,17c0,1.5 -1,2.5 -1.5,2.5S9,18.5 9,17s1.5,-3 1.5,-3S12,15.5 12,17z"/>
+
+    <path
+        android:fillColor="#1D4ED8"
+        android:pathData="M17,17c0,1.5 -1,2.5 -1.5,2.5S14,18.5 14,17s1.5,-3 1.5,-3S17,15.5 17,17z"/>
+</vector>
